@@ -1,6 +1,6 @@
 bayesian-optimization==1.2.0
 imutils==0.5.3
-joblib==0.15.1
+joblib==1.2.0
 numpy==1.18.4
 opencv-python==4.2.0.34
 PyQt5==5.15.0
